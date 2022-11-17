@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Ardalyst/Intune%20Automation/_apis/build/status/ardalystalabuda.pipelines-java?branchName=main)](https://dev.azure.com/Ardalyst/Intune%20Automation/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
